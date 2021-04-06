@@ -14,6 +14,6 @@
   
   <div>
   <a href = "leticiavieiraarruda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/letícia-arruda-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/letícia-arruda-" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://codepen.io/l-arruda" target="_blank"><img src="https://img.shields.io/badge/-codepen-%23000000?&style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
 </div>
