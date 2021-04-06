@@ -1,4 +1,4 @@
-## Olá, sou estudante de Análise e Desenvolvimento de Sistemas, estou trabalhando em projetos front-end e aqui você vai encontrar alguns deles.
+## Olá, sou estudante de Análise e Desenvolvimento de Sistemas, estou trabalhando em projetos front-end e aqui você vai encontrar alguns deles 🤍 
  <div>
   <a href="https://github.com/l-arruda">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=l-arruda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -10,7 +10,7 @@
   <img align="center" alt="Let-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ##
+  ## 💻 Tecnologias
   
   <div>
   <a href = "leticiavieiraarruda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
