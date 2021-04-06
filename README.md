@@ -1,4 +1,4 @@
-## Olá, sou estudante de Análise e Desenvolvimento de Sistemas, estou trabalhando em projetos front-end e aqui você vai encontrar alguns deles 🤍 
+## Olá, sou estudante de Análise e Desenvolvimento de Sistemas e estou trabalhando em projetos front-end 🤍 
 
 <div>
   <a href = "leticiavieiraarruda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
